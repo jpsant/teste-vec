@@ -1,0 +1,11 @@
+.applicationContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  &-title {
+    font-size: 25px;
+    margin: 32px 0;
+  }
+}
